@@ -39,15 +39,7 @@ lib/
      └─ constants.dart
 3. Generative AI Usage
 
-Generative AI tools were used to accelerate project development, especially for boilerplate code, Cubit setup, and service scaffolding.
-
-Examples of prompts used:
-
-“Generate a Flutter Cubit class to fetch weather from OpenWeatherMap API with loading, success, and error states.”
-“Create a Flutter local notification service supporting Android with high-priority alerts.”
-“Provide a Flutter dashboard screen UI that shows current weather and temperature.”
-
-AI was used as a guide, and all generated code was reviewed and adapted to ensure full understanding and proper integration.
+Generative AI tools were used primarily for debugging and troubleshooting issues during development. These tools helped identify configuration problems, dependency conflicts, and plugin integration errors.
 
 4. How to Run
 Clone the repository:
