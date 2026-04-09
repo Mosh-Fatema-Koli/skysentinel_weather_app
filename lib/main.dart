@@ -48,6 +48,7 @@ class SkySentinelApp extends StatelessWidget {
       title: 'SkySentinel',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const DashboardScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
