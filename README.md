@@ -37,6 +37,8 @@ lib/
  │   └─ alert_screen.dart
  └─ utils/
      └─ constants.dart
+
+
 3. Generative AI Usage
 
 Generative AI tools were used primarily for debugging and troubleshooting issues during development. These tools helped identify configuration problems, dependency conflicts, and plugin integration errors.
